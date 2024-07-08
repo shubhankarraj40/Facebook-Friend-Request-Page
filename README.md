@@ -1,4 +1,4 @@
-<h1 align="center"> Facebook-Friend-Request-Page </h1>
+<h1 align="center"> Friend-Request-Page </h1>
 
 <p> A friend request feature created using HTML, CSS, and JavaScript consists of a user interface that displays a card with the sender's profile information, including their name and picture. It includes "Add Friend" and "Remove Friend" buttons styled with CSS for a responsive design, and JavaScript functions to handle the click events, providing interactive feedback to the user.</p>
 
